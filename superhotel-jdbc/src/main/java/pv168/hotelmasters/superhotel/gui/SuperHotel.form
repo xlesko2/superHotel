@@ -254,10 +254,11 @@
                   <doubleBuffered value="true"/>
                   <focusCycleRoot value="false"/>
                   <font name="Te X Gyre Adventor" size="16"/>
-                  <foreground color="-11726319"/>
+                  <foreground color="-4051928"/>
                   <lineWrap value="false"/>
                   <opaque value="false"/>
                   <tabSize value="4"/>
+                  <text value=""/>
                 </properties>
               </component>
             </children>
@@ -471,7 +472,8 @@
                     <properties>
                       <background color="-15856114"/>
                       <font name="Te X Gyre Adventor" size="16"/>
-                      <foreground color="-11726319"/>
+                      <foreground color="-4051928"/>
+                      <text value=""/>
                     </properties>
                   </component>
                 </children>
@@ -522,7 +524,7 @@
                     <properties>
                       <background color="-15856114"/>
                       <font name="Te X Gyre Adventor" size="16"/>
-                      <foreground color="-11726319"/>
+                      <foreground color="-4051928"/>
                     </properties>
                   </component>
                 </children>
