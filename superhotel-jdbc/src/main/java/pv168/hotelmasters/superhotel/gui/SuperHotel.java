@@ -562,7 +562,7 @@ public class SuperHotel {
 
         @Override
         protected void done() {
-            roomInfoText.setText(localizedString("ACCOMMODATION_CREATE_SUCCESS"));
+            accommodationInfoText.setText(localizedString("ACCOMMODATION_CREATE_SUCCESS"));
             clearAccommodationControls();
         }
     }
@@ -590,7 +590,7 @@ public class SuperHotel {
 
         @Override
         protected void done() {
-            roomInfoText.setText(localizedString("ACCOMMODATION_DELETE_SUCCESS"));
+            accommodationInfoText.setText(localizedString("ACCOMMODATION_DELETE_SUCCESS"));
         }
     }
 
@@ -624,7 +624,7 @@ public class SuperHotel {
 
         @Override
         protected void done() {
-            roomInfoText.setText(localizedString("ACCOMMODATION_UPDATE_SUCCESS"));
+            accommodationInfoText.setText(localizedString("ACCOMMODATION_UPDATE_SUCCESS"));
             clearAccommodationControls();
             editedAccommodation = null;
             accommodationAdd.setText(localizedString("BUTTON_MAKE"));
